@@ -19,17 +19,7 @@ function disminuir() {
     parrafo.innerHTML  = cuenta;
     total = document.querySelector('#valor-total');
     total.innerHTML = cuenta * precio;
-    
 }
-
-
-// total = precio * unidad ;
-// document.querySelector('#valor-total').innerHTML = total;
-total = document.querySelector('#valor-total');
-total.innerHTML = cuenta * precio;
-
-
-
 
 
 
